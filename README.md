@@ -13,6 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibonetti&show_icons=true&theme=onedark&locale=en" />
 </a>
 &nbsp;
-<a href="https://github.com/ibonetti">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibonetti&layout=compact" />
 </a>
